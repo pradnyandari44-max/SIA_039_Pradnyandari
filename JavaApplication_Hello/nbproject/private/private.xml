@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/koding/JavaApplication_Hello/src/config/DBConnection.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/model/Student.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/dao/StudentDAO.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/controller/StudentController.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/view/StudentForm.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/dao/KRSDAO.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/controller/KRSController.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/model/Lecturer.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/model/Person.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/dao/LecturerDAO.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/dao/CourseDAO.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/controller/LecturerController.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/controller/CourseController.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/view/LecturerForm.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/view/CourseForm.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/view/KRSForm.java</file>
+            <file>file:/C:/koding/JavaApplication_Hello/src/view/Dashboard.java</file>
+        </group>
+    </open-files>
+</project-private>
